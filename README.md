@@ -13,7 +13,7 @@ After completing this lesson, participants will be able to:
 * Objective 1
 * Objective 2
 
-> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. There should be one assement item for each objective (see below).
+> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. There should be one assessment item for each objective (see below).
 
 ## Target Audience
 
@@ -78,7 +78,7 @@ Participants will get the most from this lesson if they have familiarity with:
 >
 > _For example:_
 >
-> *   Do you want to makes changes to your theme yourself?
+> *   Do you want to make changes to your theme yourself?
 > *   Do you know how to write CSS?
 
 ## Slides
@@ -119,7 +119,7 @@ Participants will get the most from this lesson if they have familiarity with:
 * Then move on to this
 * Finish with this
 
-> The plan for the lesson. Outline form works well.
+> The plan for the lesson. The Outline form works well.
 >
 > _For example:_
 >
@@ -140,7 +140,7 @@ Short description of what the exercise does and what skills or knowledge it rein
 
 ## Assessment
 
-There should be one assement item (or more) for each objective listed above. Each assessment item should support an objective; there should be none that don't.
+There should be one assessment item (or more) for each objective listed above. Each assessment item should support an objective; there should be none that don't.
 
 **Write out the question.**
 
@@ -158,7 +158,7 @@ There should be one assement item (or more) for each objective listed above. Eac
 * Resource 1
 * Resource 2
 
-> An optional section which can contain a list of resources that the presenter can use to get more information on the topic.
+> An optional section that can contain a list of resources that the presenter can use to get more information on the topic.
 >
 > _For example:_
 >
@@ -167,7 +167,7 @@ There should be one assement item (or more) for each objective listed above. Eac
 
 ## Example Lesson
 
-> An example of how the lesson plan can be implemented. Written in script form as one possible way an presenter might use this lesson plan at an event, with screenshots and instructions if necessary.
+> An example of how the lesson plan can be implemented. Written in script form as one possible way a presenter might use this lesson plan at an event, with screenshots and instructions if necessary.
 
 ### Section Heading for Example Lesson
 
